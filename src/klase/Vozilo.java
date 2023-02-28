@@ -20,6 +20,7 @@ public class Vozilo {
 
     public int potrosnjaGoriva(int portrosnja, int kilometraza){
         return (portrosnja/100)*kilometraza;
+
     }
     @Override
     public String toString(){
