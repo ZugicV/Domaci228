@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd680a72-b28f-4691-99b0-3db1a1e8aaac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Domaci228.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/klase/Kamion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/klase/Vozac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/klase/Vozilo.java" afterDir="false" />
+    <list default="true" id="bd680a72-b28f-4691-99b0-3db1a1e8aaac" name="Changes" comment="Domaci228">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +46,25 @@
       <option name="presentableId" value="Default" />
       <updated>1677589691088</updated>
     </task>
+    <task id="LOCAL-00001" summary="Domaci228">
+      <created>1677591800984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677591800984</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Domaci228">
+      <created>1677591809740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677591809740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Domaci228" />
+    <option name="LAST_COMMIT_MESSAGE" value="Domaci228" />
   </component>
 </project>
